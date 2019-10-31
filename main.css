@@ -1,0 +1,15 @@
+.bg {
+  width: auto;
+  height: 900px;
+  background-color: grey;
+  color: white;
+  margin: 20px;
+}
+
+.container {
+  width: 50%;
+  height: 500px;
+  margin: auto;
+  padding-top: 100px;
+  text-align: center;
+}
